@@ -7,7 +7,7 @@ I made a node.js app that will allow you to manage and view a database of employ
 
 ## Table of Contents
 
-- Installation (#Installation)
+- [Installation](#Installation)
 - Usage (https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Usage)
 - My Info (https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#my-info)
 - Tests (https://github.com/Bmorrissey34/README-Maker/blob/main/README.md#Tests)
