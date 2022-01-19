@@ -21,6 +21,10 @@ NPM I
 ## Usage
 Run node server in the terminal to begin
 
+
+https://user-images.githubusercontent.com/88950762/150185081-76e8b52b-0218-4267-95fa-38e838f18e11.mp4
+
+
 ## My Info
 GitHub Username: https://github.com/bmorrissey34
 Github Repo : https://github.com/Bmorrissey34/Employee-Tracker
